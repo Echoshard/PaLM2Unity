@@ -20,3 +20,5 @@ TextPrompt and TextPromptFromInput are there to access the coroutine.
 
 This uses the text generation method which has a faster response time. You can add personality or extra information using addToPromptStart. It's defaulted to "Be Breif" causing it to give short responses and not overwhelm the text box. 
 
+# Debug
+Use DebugResponse to get the full response from the PaLM2 Api
